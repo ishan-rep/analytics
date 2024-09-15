@@ -1,0 +1,5 @@
+name: graph-env
+channels:
+  - conda-forge
+  - defaults
+prefix: /Users/ishansharma/miniforge3/envs/graph-env
